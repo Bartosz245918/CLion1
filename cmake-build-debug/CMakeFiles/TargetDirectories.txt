@@ -1,0 +1,3 @@
+C:/Users/Bartek/CLionProjects/CLion1/cmake-build-debug/CMakeFiles/CLion1.dir
+C:/Users/Bartek/CLionProjects/CLion1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bartek/CLionProjects/CLion1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
